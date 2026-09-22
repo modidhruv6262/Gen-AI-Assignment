@@ -49,11 +49,18 @@ This repository is divided into progressively advanced sessions, moving from hig
 - **Stable Diffusion:** Triggered a live Stable Diffusion generation of a futuristic cyberpunk cricket stadium, saving the resulting artwork directly into the repository.
 - **Ethics & Risks:** Addressed the dangers of deepfakes and mass style theft, highlighting mitigation strategies like SynthID watermarking and Opt-Out data registries.
 
+### 🏭 SESSION 5 - Applying Generative Models in Industry
+- **Text Summarization:** Leveraged ChatGPT to condense a 3-paragraph news article about an intense IPL cricket final down to a single paragraph summary (ipl_summary.txt).
+- **Q&A Chatbots:** Programmed a programmatic Python response generator that mimics a Zomato-style restaurant bot.
+- **Food Image Synthesis:** Used advanced prompt engineering to generate a vibrant, 8k resolution image of a *Sci-Fi Cyberpunk Gujarati Thali*.
+- **AI Code Generation:** Demonstrated how to use LLMs (Copilot/ChatGPT) to algorithmically write Python list-comprehension filters for Spotify playlists.
+- **Production Challenges:** Analyzed two massive enterprise risks (AI Hallucinations and Compute Latency) and defined the exact solutions (RAG and Hybrid ML Routing).
+
 ---
 
 ## 🚀 Getting Started
 
-The coding sessions (Autoencoders, GANs, and Diffusion) are provided as fully executed Jupyter Notebooks (.ipynb). You can view the embedded outputs and visualizations directly on GitHub without needing to run them!
+The coding sessions are provided as fully executed Jupyter Notebooks (.ipynb). You can view the embedded outputs and visualizations directly on GitHub without needing to run them!
 
 If you wish to run the notebooks locally, ensure you have the following dependencies installed:
 `ash
